@@ -13,4 +13,6 @@ btn.addEventListener('click', function() {
 	text.textContent = input.value
 	qr.classList.add('open')
 	input.value = ''
+	console.log('request', request);
+	
 })
