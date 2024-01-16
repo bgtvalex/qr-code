@@ -4,6 +4,6 @@
 * HTML, CSS, JS.
 
 ### Libraries:
-* [QR Code Generator](https://goqr.me/) - Date picker - tiny size, no dependencies.
+* [QR Code Generator](https://goqr.me/) - Create a QR code.
 
 [demo](https://bgtvalex.github.io/qr-code/)

@@ -1,4 +1,4 @@
-
+alert()
 const form = document.getElementById('form')
 const input = document.getElementById('input')
 const qr = document.getElementById('qr')
