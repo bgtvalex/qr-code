@@ -3,7 +3,7 @@ const form = document.getElementById('form')
 const input = document.getElementById('input')
 const qr = document.getElementById('qr')
 const text = document.getElementById('text')
-form.addEventListener('submit', (e) => {
+form.addEventListener('submit', function(e) {
 	e.preventDefault()
 	
 	const request = `http://api.qrserver.com/v1/create-qr-code/?size=160x160&data=${input.value}`
